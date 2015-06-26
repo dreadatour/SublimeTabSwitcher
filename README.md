@@ -11,17 +11,17 @@ Installation
 
 This plugin is not in Sublime Package Control for some reasons, so you need to install it manually:
 
-*OS X*
+**OS X**
 
     cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
     git clone git://github.com/dreadatour/SublimeTabSwitcher.git 'Tab Switcher'
 
-*Linux*
+**Linux**
 
     cd ~/.config/sublime-text-3/Packages
     git clone git://github.com/dreadatour/SublimeTabSwitcher.git 'Tab Switcher'
 
-*Windows*
+**Windows**
 
     cd "%APPDATA%\Sublime Text 3\Packages"
     git clone git://github.com/dreadatour/SublimeTabSwitcher.git 'Tab Switcher'
