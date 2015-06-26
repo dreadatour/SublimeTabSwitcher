@@ -3,7 +3,7 @@ Tab Switcher plugin for Sublime Text 3
 
 Tab Switcher is a [Sublime Text 3](http://www.sublimetext.com/3) plugin to switch between opened files with menu:
 
-![Screenshot](https://habrastorage.org/files/145/528/530/14552853056b4c99b3810848b170f2e3.png)
+![Screenshot](https://habrastorage.org/files/819/694/28f/81969428fc9b4faea6477bb76311dd81.png)
 
 
 Installation
