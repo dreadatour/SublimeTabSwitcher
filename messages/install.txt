@@ -1,0 +1,7 @@
+Thank you for installing Tab Switcher!
+
+
+Use 'alt+tab' on OS X or 'ctrl+alt+tab' on Linux or Windows to show Tab Switcher window.
+
+
+For details, please visit: https://github.com/dreadatour/SublimeTabSwitcher
