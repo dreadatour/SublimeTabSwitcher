@@ -32,9 +32,9 @@ Key bindings
 
 Default:
 
-* *OS X*: <kbd>Alt</kbd>+<kbd>Tab</kbd>
-* *Linux*: <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Tab</kbd>
-* *Windows*: <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Tab</kbd>
+* **OS X**: <kbd>Alt</kbd>+<kbd>Tab</kbd>
+* **Linux**: <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Tab</kbd>
+* **Windows**: <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Tab</kbd>
 
 Setup your own:
 
